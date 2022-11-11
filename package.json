@@ -2,9 +2,9 @@
   "dependencies": {
     "eris": "^0.17.1"
   },
-  "name": "stupid-discord-badge",
+  "name": "awesome-discord-badge",
   "version": "1.0.0",
-  "description": "Discord can eat my ass",
+  "description": "Discord can eat caviar",
   "main": "index.js",
   "scripts": {
     "run": "npm i && node ."
